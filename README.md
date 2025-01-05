@@ -6,4 +6,4 @@
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
 
 ### 1일 3문제 이상 풀기 진행중 🌱
-- 기간: 2023.12.01 ~ 현재<br>
+- 기간: 2024.12.01 ~ 현재<br>
